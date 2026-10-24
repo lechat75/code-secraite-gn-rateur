@@ -1,2 +1,3 @@
-# code-secraite-gnrateur
-c'est un prgrame  qui génaire un code a 6 char alaatoire moi
+⚠️ Ce projet est publié à des fins de consultation uniquement.
+Aucune autorisation d'utilisation, de modification ou de redistribution n'est accordée.
+Voir le fichier LICENSE.
