@@ -1,0 +1,13 @@
+[package]
+name = "teste"
+version = "0.1.5"
+edition = "2024"
+
+[dependencies]
+crossbeam-deque = "0.8.8"
+crossbeam-epoch = "0.9.21"
+crossbeam-utils = "0.8.23"
+rand = "0.8"
+rayon = "1.5"
+rayon-core = "1.13.0"
+zerocopy = "0.8.62"
